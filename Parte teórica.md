@@ -22,7 +22,9 @@
 
 ## Tag para anexar um link
 
-`<a href="https://google.com"> google.com </a>`
+```htm
+<a href="https://google.com"> google.com </a>
+```
 
 ## O que são tags ?
 
@@ -33,4 +35,6 @@ As tags são usadas para informar ao navegador a estrutura do site. Ou seja: qua
 Define uma característica ou propriedade de um elemento; é sempre incluído no tag inicial de um elemento, usando a sintaxe: nome_do_ atributo="valor".
 Um elemento pode ter vários atributos, separados por espaço(s) em branco. Ao contrário de HTML, em XHTML todo atributo deve ter um valor, mesmo que seja vazio ("") e o valor deve ser sempre delimitado por aspas duplas. Por exemplo:
 
-`<img src="sun.jpg" alt="sunburst graphic" width="32" height="21" align="left">`
+```htm
+<img src="sun.jpg" alt="sunburst graphic" width="32" height="21" align="left">
+```
