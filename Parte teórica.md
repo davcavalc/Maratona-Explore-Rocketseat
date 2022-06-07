@@ -1,9 +1,6 @@
 #
 
-![Imagem de teste](https://camo.githubusercontent.com/fb936e68a052eca6a4a8cd34217732ae9c54d27b4f926cc0f46213270d9a8983/687474703a2f2f692e696d6775722e636f6d2f68524c75657a322e706e67)
-![HTML](https://img.shields.io/badge/HTML%20link-HTML-red) (https://html.com/)
-
-<img src="public\img\Captura de tela 2022-06-07 023436.png" alt="maratona-logo">
+<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTedB_f8DOxHJMyjQk1QZOj4v0spJG5oPd2OQoQJTgk0hIv8CE%26s&sp=1654636493Td88f58b243cdbbc9598970f871f1db61bf479297997b73d244f00ff05bb98672" alt="maratona-logo">
 <a href="https://html.com/">
     <img src="https://img.shields.io/badge/HTML%20link-HTML-red" alt="html-link">
 </a>
