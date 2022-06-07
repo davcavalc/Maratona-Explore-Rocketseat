@@ -1,12 +1,11 @@
 #
 
-![Maratona Explore]("public\img\Captura de tela 2022-06-07 023436.png")
-![HTML]("public\img\HTML link-HTML-red.svg")
+![Imagem de teste](https://camo.githubusercontent.com/fb936e68a052eca6a4a8cd34217732ae9c54d27b4f926cc0f46213270d9a8983/687474703a2f2f692e696d6775722e636f6d2f68524c75657a322e706e67)
 
-<!-- <img src="public\img\Captura de tela 2022-06-07 023436.png" alt="maratona-logo">
+<img src="public\img\Captura de tela 2022-06-07 023436.png" alt="maratona-logo">
 <a href="https://html.com/">
     <img src="public\img\HTML link-HTML-red.svg" alt="html-link">
-</a> -->
+</a>
 
 ## O que é HTML ?
 
