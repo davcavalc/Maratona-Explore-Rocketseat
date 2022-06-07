@@ -1,3 +1,8 @@
+<img src="../Maratona Explore Rocketseat/public/img/Captura de tela 2022-06-07 023436.png" alt="maratona-logo">
+<a href="https://html.com/">
+    <img src="../Maratona Explore Rocketseat/public/img/HTML link-HTML-red.svg" alt="html-link">
+</a>
+
 # O que é HTML ?
 
 -> HyperText Markup Language.
