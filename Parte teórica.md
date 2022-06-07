@@ -1,9 +1,14 @@
-<img src="public\img\Captura de tela 2022-06-07 023436.png" alt="maratona-logo">
+#
+
+![Maratona Explore]("public\img\Captura de tela 2022-06-07 023436.png")
+![HTML]("public\img\HTML link-HTML-red.svg")
+
+<!-- <img src="public\img\Captura de tela 2022-06-07 023436.png" alt="maratona-logo">
 <a href="https://html.com/">
     <img src="public\img\HTML link-HTML-red.svg" alt="html-link">
-</a>
+</a> -->
 
-# O que é HTML ?
+## O que é HTML ?
 
 -> HyperText Markup Language.
 
