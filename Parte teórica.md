@@ -38,3 +38,19 @@ Um elemento pode ter vários atributos, separados por espaço(s) em branco. Ao c
 ```htm
 <img src="sun.jpg" alt="sunburst graphic" width="32" height="21" align-items="left">
 ```
+# Introdução ao CSS
+
+<ol>
+    <li>Apresentação visual para o cliente</li>
+    <li>Estilos para o HTML</li>
+    <li>Cascading Style Sheets <strong>Folha de estilo em cascata</strong></li>
+</ol>
+
+## Sintaxe
+
+```css
+<nome do seletor> {
+    //propriedades e os valores
+}
+```
+
