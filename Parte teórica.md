@@ -54,3 +54,53 @@ Um elemento pode ter vários atributos, separados por espaço(s) em branco. Ao c
 }
 ```
 
+# Javascript
+
+## O que é ?
+
+<div>
+    <ul>
+        <li>Linguagem de programação: interpretada e executada pelos navegadores.</li>
+        <li>A inteligência de uma tríade: HTML é a estrutura, CSS a beleza e JS é a inteligência.</li>
+        <li>Não é Java: apesar do nome ser semelhante, são linguagens diferentes.</li>
+    </ul>
+</div>
+
+## Porque JS ?
+
+<div>
+    <ul>
+        <li>Aplicativos para web, desktop e mobile;</li>
+        <li>Empresas famosas: instagram, google, netflix, etc;</li>
+        <li>Moderna e viva: comunidade e linguagem que cresce cada vez mais.</li>
+    </ul>
+</div>
+
+## Sintaxe
+
+<p>É presente em toda linguagem e é importante para a comunicação.</p>
+
+```javascript
+const MENSAGEM = "Bom te ver aqui!!";
+alert(MENSAGEM + (10 * 100) + "abraços");
+// => Bom te ver aqui!! 1000 abraços
+```
+
+## Executando Javascript
+
+### 1) De maneira imediata
+
+No Browser a partir da ferramenta Devtools apertando o atalho F12 no seu teclado;
+Plataformas online (codepen.io, frontend.dev).
+
+### 2) Arquivos no computador (exemplo abaixo):
+
+```html
+<!-- em um arquivo index.html -->
+
+<!-- executando o javascript direto no .html -->
+<script>alert('Olá!!')</script>
+
+<!-- importa um arquivo .js no seu .html -->
+<script src="./script.js"></script>
+```

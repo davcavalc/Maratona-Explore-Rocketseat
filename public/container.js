@@ -6,7 +6,7 @@ createContainer.innerHTML = `
             alt="Imagem de uma bola de cristal">
         <h1>Vou revelar o seu destino</h1>
         <p>Clique em fazer pergunta para que seu destino seja revelado</p>
-        <input type="text" placeholder="Digite sua pergunta" />
-        <button>Fazer pergunta</button>
+        <input id="inputPergunta" type="text" placeholder="Digite sua pergunta" />
+        <button id="buttonPerguntar" onclick="fazerPergunta()">Fazer pergunta</button>
 
 `;
